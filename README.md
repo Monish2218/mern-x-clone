@@ -18,6 +18,9 @@ Some Features:
 -   🌐 Deployment
 -   ⏳ And much more!
 
+### Demo video
+Watch the video - [demo](https://drive.google.com/file/d/1DcRe8P772bTHMo0glhlC7BjrthT7gfFA/view?usp=drive_link)
+
 ### Setup .env file
 
 ```js
